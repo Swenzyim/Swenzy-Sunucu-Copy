@@ -4,7 +4,7 @@ Bu proje, [Swenzyim](https://youtube.com/@swenzyim) tarafından geliştirilen a�
 
 ## 📽️ Tanıtım Videosu
 
-[![Tanıtım Videosunu İzle](https://img.youtube.com/vi/5BR_0yXr-8w/maxresdefault.jpg)]([https://youtube.com/@WraithsDev](https://www.youtube.com/watch?v=p3ZU8dpgK5M))
+[![Tanıtım Videosunu İzle]([https://img.youtube.com/vi/5BR_0yXr-8w/maxresdefault.jpg](https://www.youtube.com/watch?v=p3ZU8dpgK5M))]([https://youtube.com/@WraithsDev](https://www.youtube.com/watch?v=p3ZU8dpgK5M))
 
 👆 Projeyi daha iyi anlamak için tanıtım videomuzu izleyebilirsiniz.
 
