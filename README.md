@@ -10,4 +10,4 @@ Bu proje, [Swenzyim](https://youtube.com/@swenzyim) tarafından geliştirilen a�
 
 💬 Destek ve Topluluk
 Herhangi bir sorunla karşılaşırsanız veya yardım almak isterseniz, destek sunucumuza katılabilirsiniz:
-[![Discord Banner](https://api.weblutions.com/discord/invite/npm/)](https://discord.gg/npm)
+[![Discord Banner](https://api.weblutions.com/discord/invite/altyapilar/)](https://discord.gg/altyapilar)
